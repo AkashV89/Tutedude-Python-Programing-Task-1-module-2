@@ -1,8 +1,8 @@
 # Tutedude-Python-Programing-Task-1-module-2
 
-# Do Simple mathamatic calculation
+# Do Simple mathematical calculation
 
-# Step 1: Take two numbers as input from the user
+# Take two numbers as input from the user
 
 num1 = float(input("Enter the first number: "))
 
@@ -32,9 +32,9 @@ print(f"Division: {num1} / {num2} = {division}")
 
 
 
-#creat a personal greeting Message
+# create a personal greeting Message
 
-# Step 1: Take user's first and last name as input
+# Step 1: Take the user's first and last name as input
 
 first_name = input("Enter your first name: ").strip()
 
@@ -45,6 +45,6 @@ last_name = input("Enter your last name: ").strip()
 
 full_name = f"{first_name} {last_name}"
 
-# Step 3: Print personalized greeting
+# Step 3: Print personalised greeting
 
 print(f"\nHello, {full_name}! Welcome to the Python Program.")
